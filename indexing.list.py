@@ -10,8 +10,4 @@ l1.sort() #sort in order in inreasing order
 print(l1)
 l1.reverse()
 print(l1)
-#for insert in any place 
-l1.insert(3,3333)
-print(l1)
-print(l1.pop(4)) # for pop 
-print(l1)
+hey
