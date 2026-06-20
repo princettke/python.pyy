@@ -1,0 +1,15 @@
+# write a program to store six fruits in list  entered by user  
+Fruits=[]
+f1=input("Enter your fruit name:")
+Fruits.append(f1)
+f2=input("Enter your fruit name:")
+Fruits.append(f2)
+f3=input("Enter your fruit name:")
+Fruits.append(f3)
+f4=input("Enter your fruit name:")
+Fruits.append(f4)
+f5=input("Enter your fruit name:")
+Fruits.append(f5)
+f6=input("Enter your fruit name:")
+Fruits.append(f6)
+print(Fruits)
