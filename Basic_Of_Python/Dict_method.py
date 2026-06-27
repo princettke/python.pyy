@@ -13,4 +13,6 @@ print(marks.get("kushal"))
 #diif b/w get or normal methods to print 
 print(marks.get("kushal200")) # prints none agar nhi h toh but error nhi dega 
 
-print(marks["kushal200"]) # prints error when item does not exist
+#print(marks["kushal200"]) # prints error when item does not exist
+# for length of d 
+print(len(marks))
