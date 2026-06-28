@@ -1,0 +1,15 @@
+# create a empty dictnory allow 4 freinds to enter there language as value and name as key  assume that the name are unique 
+d ={}
+name = input("enter your name:  ")
+lang = input("enter your lang: ")
+d.update({name : lang})
+name = input("enter your name:  ")
+lang = input("enter your lang: ")
+d.update({name : lang})
+name = input("enter your name:  ")
+lang = input("enter your lang: ")
+d.update({name : lang})
+name = input("enter your name:  ")
+lang = input("enter your lang: ")
+d.update({name : lang})
+print(d)
